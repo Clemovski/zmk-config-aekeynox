@@ -183,4 +183,4 @@
 // keystrokes). The adaptations are layout-specific; as of today, only Ergol is
 // supported.
 
-// #define ENABLE_HUMMINGBIRD_MODE
+#define ENABLE_HUMMINGBIRD_MODE
